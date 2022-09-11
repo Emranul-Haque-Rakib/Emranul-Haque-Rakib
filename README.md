@@ -1,7 +1,7 @@
 #  Hey! Nice to see you. 👋
 
-<!--
-**Emranul-Haque-Rakib/Emranul-Haque-Rakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a Flutter Developer with Basic knowladge of Native Android Development. Currently, I'm open to work and employment opportunities.
 
 Here are some ideas to get you started:
 
