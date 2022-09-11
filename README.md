@@ -2,7 +2,7 @@
 
 I am a Flutter Developer with basic knowladge of native android development.Looking for an entry level flutter developer position.
 
-- 👯 I’m currently open for work and employment opportunities  <br>  <br><br>- 🌱 I’m currently learning Provider State management   <br>  <br><br>- 🥳 I love to watch movies and hang out with friends.  <br>  <br><br>- 📫 I am just one mail away - [hossainrakib502@gmail.com]  
+👯 I’m currently open for work and employment opportunities  <br>  <br><br>- 🌱 I’m currently learning Provider State management   <br>  <br><br>- 🥳 I love to watch movies and hang out with friends.  <br>  <br><br>- 📫 I am just one mail away - [hossainrakib502@gmail.com]  
 
 
 # 💻 Tech Stack:
