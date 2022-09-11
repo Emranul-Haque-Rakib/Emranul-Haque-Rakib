@@ -1,7 +1,7 @@
 #  Hey! Nice to see you. 👋
 
 
-I am a Flutter Developer with Basic knowladge of Native Android Development. Currently, I'm open to work and employment opportunities.
+I am a Flutter Developer with Basic knowladge of Native Android Development. Currently, I'm open to work and employment opportunities. I am Looking for an Entry level Flutter developer position.
 
 Here are some ideas to get you started:
 
