@@ -18,7 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Emranul-Haque-Rakib&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emranul-Haque-Rakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 Smile a bit!
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
