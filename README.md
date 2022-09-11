@@ -1,12 +1,12 @@
 # ![image](https://user-images.githubusercontent.com/25159741/189538007-b8a9d783-41f1-4cac-9261-d74eca7a2bb4.png) Hey! Nice to see you :
 
-I am a Flutter Developer with basic knowladge of native android development.Looking for an entry level flutter developer position.
+I am a Flutter Developer with basic knowladge of native android development. 
 
 
 
 
 
-  👯 I’m currently open for work and employment opportunities  <br>  <br><br>- 🌱 I’m currently learning Provider State management   <br>  <br><br>- 🥳 I love to watch movies and hang out with friends.  <br>  <br><br>- 📫 I am just one mail away - [hossainrakib502@gmail.com]  
+  👯 I’m currently open for work and employment opportunities, looking for an entry level flutter developer position.  <br>  <br><br>- 🌱 I’m currently learning Provider State management   <br>  <br><br>- 🥳 I love to watch movies and hang out with friends.  <br>  <br><br>- 📫 I am just one mail away - [hossainrakib502@gmail.com]  
 
 
 
