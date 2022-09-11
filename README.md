@@ -1,6 +1,6 @@
 # ![image](https://user-images.githubusercontent.com/25159741/189538007-b8a9d783-41f1-4cac-9261-d74eca7a2bb4.png) Hey! Nice to see you :
 
-### I am a Flutter Developer with basic knowladge of native android development. 
+### I am a FLUTTER DEVELOPER with basic knowladge of Native Android Development. 
 
 
 
